@@ -1,9 +1,4 @@
-# IAMPM русская версия
-## first level
-### second level
-#### 3d level
-test
-test
-test
-## second level
-### homework
+# IAMPM
+## Homework
+### Aim - learn to work with Git
+
